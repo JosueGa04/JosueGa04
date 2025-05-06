@@ -22,7 +22,7 @@
 - 💬 Working on improving chatbot features with Jira-managed sprints and real deployments.
 
 ## 📫 Let's Connect!
-Feel free to reach out via [LinkedIn](https://www.linkedin.com) or check out some of my pinned projects below 👇
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/josue-galindo-gtz) or check out some of my pinned projects below 👇
 
 ---
 
