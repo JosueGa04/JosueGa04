@@ -18,7 +18,6 @@
 ## 📌 Highlights
 - 🔍 Built a warehouse robot simulator using AI-based reasoning and collision avoidance.
 - 📱 Created a mobile app to report and manage donations (clothing/food), integrated with Firebase.
-- 🎭 Led a Taekwondo performance art project exploring the conflict between sports life and university life.
 - 💬 Working on improving chatbot features with Jira-managed sprints and real deployments.
 
 ## 📫 Let's Connect!
@@ -26,4 +25,3 @@ Feel free to reach out via [LinkedIn](www.linkedin.com/in/josue-galindo-gtz) or 
 
 ---
 
-> *"Code is my canvas. Whether it's a robot simulation, a community app, or a punch of logic — I'm always creating something that matters."*
